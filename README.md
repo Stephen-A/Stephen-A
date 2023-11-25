@@ -3,20 +3,16 @@
 I'm a passionate front-end developer and technology enthusiest based in Seattle, WA. Welcome to my Github profile!
 
 <p dir="auto">
-  <a href="https://skillicons.dev" rel="nofollow" style="text-decoration:none;">
-    <img src="https://skillicons.dev/icons?i=html,css"/>
-  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://skillicons.dev" rel="nofollow" style="text-decoration:none;">
-      <img src="https://skillicons.dev/icons?i=javascript,react"/>
-    </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://skillicons.dev" rel="nofollow" style="text-decoration:none;">
-    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://skillicons.dev" rel="nofollow" style="text-decoration:none;">
-    <img src="https://skillicons.dev/icons?i=git,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=javascript,react"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=git,vscode"/>
   </a>
 </p>
-<br>
+<h3>Socials</h3>
+<a href="https://www.linkedin.com/in/stephen--j--allen/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 <!--
 **Stephen-A/Stephen-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
