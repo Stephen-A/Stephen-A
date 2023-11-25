@@ -16,7 +16,7 @@
 </a>
 <br><br>
 <p>🔭 I’m currently working on concepts for personal projects that I use to showcase my skillset as a front-end developer. Stay Tuned!</p>
-<p>🌱 I’m currently learning React.js, and Tailwind to create responsive, user-friendly, and cross-platform compatible applications</p>
+<p>🌱 I’m currently learning React.js, and Tailwind to create responsive, user-friendly, and cross-platform compatible applications.</p>
 
 <!--
 **Stephen-A/Stephen-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
