@@ -2,20 +2,17 @@
 
 I'm a passionate front-end developer and technology enthusiest based in Seattle, WA. Welcome to my Github profile!
 
-<p dir="left">
-  <a href="https://skillicons.dev" rel="nofollow" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=html,css" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://skillicons.dev" rel="nofollow" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=javascript,react" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://skillicons.dev" rel="nofollow" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://skillicons.dev" rel="nofollow" style="text-decoration: none;">
+<p dir="auto">
+  <a href="https://skillicons.dev" rel="nofollow" style="text-decoration:none;">
+    <img src="https://skillicons.dev/icons?i=html,css"/>
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://skillicons.dev" rel="nofollow" style="text-decoration:none;">
+      <img src="https://skillicons.dev/icons?i=javascript,react"/>
+    </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://skillicons.dev" rel="nofollow" style="text-decoration:none;">
+    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://skillicons.dev" rel="nofollow" style="text-decoration:none;">
     <img src="https://skillicons.dev/icons?i=git,vscode" />
   </a>
 </p>
