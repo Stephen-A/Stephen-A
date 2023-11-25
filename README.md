@@ -2,7 +2,25 @@
 
 I'm a passionate front-end developer and technology enthusiest based in Seattle, WA. Welcome to my Github profile!
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,"",react,javascript,"","tailwind,bootstrap)](https://skillicons.dev)
+<p dir="left">
+  <a href="https://skillicons.dev" rel="nofollow">
+    <img src="https://skillicons.dev/icons?i=html,css" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://skillicons.dev" rel="nofollow">
+    <img src="https://skillicons.dev/icons?i=javascript,react" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://skillicons.dev" rel="nofollow">
+    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://skillicons.dev" rel="nofollow">
+    <img src="https://skillicons.dev/icons?i=git,vscode" />
+  </a>
+</p>
+<br>
+
 <!--
 **Stephen-A/Stephen-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
