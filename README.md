@@ -14,8 +14,13 @@
 <a href="https://www.linkedin.com/in/stephen--j--allen/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+<h3>Portfolio Link (hosted through AWS, and a work in progress)</h3>
+<a href="https://main.d1ahoe6xax85ws.amplifyapp.com/">
+    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+</a>
+
 <br><br>
-<p>🔭 I’m currently working on concepts for personal projects that I use to showcase my skillset as a front-end developer. Stay Tuned!</p>
+<p>🔭 I’m currently working on concepts for personal projects that I use to showcase my skillset as a front-end developer. Stay Tuned for further development!</p>
 <p>🌱 I’m currently learning React.js, and Tailwind to create responsive, user-friendly, and cross-platform compatible applications.</p>
 
 <!--
