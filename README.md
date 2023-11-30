@@ -14,7 +14,7 @@
 <a href="https://www.linkedin.com/in/stephen--j--allen/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<h3>Portfolio Link (hosted through AWS, and a work in progress)</h3>
+<h3>Portfolio - Hosted through AWS (currently a work in progress and will be updated as new projects are being completed)</h3>
 <a href="https://main.d1ahoe6xax85ws.amplifyapp.com/">
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </a>
